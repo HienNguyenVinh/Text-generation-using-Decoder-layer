@@ -10,5 +10,6 @@ This model have this parameters:
   - seq_len 
   - dropout_rate 
   - batch_size 
+
 You can download this project and train your model using this line in your terminal:
   python train.py --batch-size 64 --vocab-size 10000 ...   
